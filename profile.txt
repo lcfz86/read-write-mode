@@ -1,0 +1,5 @@
+Danial,26,Sabah,Male
+John,23,Kuala Lumpur,Male
+Kevin,27,Sarawak,Male
+Angelina,24,Johor,Female
+Nisa,26,Sabah,Female

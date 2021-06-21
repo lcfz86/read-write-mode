@@ -1,0 +1,3 @@
+Hawaiian Pizza,20
+Nasi Lemak,12
+Curry Laksa,10
